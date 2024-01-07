@@ -2,6 +2,7 @@ num_1 = 0
 num_2 = 0
 num_3 = 0
 choice = 0
+
 print("---메뉴---")
 print("1.덧셈")
 print("2.뺄셈")

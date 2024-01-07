@@ -25,7 +25,7 @@ arr = [1, 2,'3','4',5.5,"Hello World", True, False, None]
 arr.append(6)
 
 a.insert(1, 1.5)
-print(a)
+print(arr)
 print("a is" + str(a))
 
 for aa in a:
