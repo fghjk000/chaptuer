@@ -1,8 +1,6 @@
 choice = 0
 flag = 1
 index = 0
-name = []
-numbers = []
 phone_books_index = [0]*30
 phone_books_name = []
 phone_books_numbers = []
@@ -14,6 +12,7 @@ while flag:
     print("3. 전화번호 삭제")
     print("4. 전화번호 수정")
     print("5. 종료")
+
     choice = int(input(": "))
 
     if choice is 1: #목록
